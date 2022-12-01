@@ -5,6 +5,8 @@
   <p align='center'>
   Technology, development and gaming are my favorite things.
   </p>
+  
+  ![GitHub Snake dark](https://github.com/juliorugolo/juliorugolo/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
   <p align='center'>
     <a href="www.linkedin.com/in/juliorugolo" target="_blank">
