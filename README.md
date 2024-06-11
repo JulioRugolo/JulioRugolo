@@ -9,7 +9,6 @@
 
 <div display="flex" align="center">
   <p>Seja bem vindo ao meu GitHub! <br>
-   "A vida é simples, faça escolhas e não olhe para trás" <br> e a minha escolha foi ser Dev!.</p>
 
   <br>
 
